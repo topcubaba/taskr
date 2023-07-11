@@ -1,16 +1,27 @@
-# taskr
+<h1 align="center">Taskr</h1>
 
-A new Flutter project.
+<h2 align="center">
+ Just a simple task app
+</h2>
 
-## Getting Started
+<h2 align="center">
+  Works with firebase, you need to set it up first.
+  It was just staying in my archive. 
+  I did small final arrangements but architecture is not clean and there is probably many tricky codes.
+  <br>But it works well!
+  <h2 align="center">
+    There is some missing features like:
+    search,
+    filter,
+    notifications,
+    profile page etc.
+  </h2>
+</h2>
 
-This project is a starting point for a Flutter application.
+<h2 align="center">
+  <strong>Taskr</strong>
+</h2>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGRma2Z0Z2hzOTRqbXI0Y2NkcjFjdWs2aXdqZ2I1NTNhdDNkanJmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2VohbFYyBWH4CmQCNG/giphy.gif" height="540"/>
+</div>
